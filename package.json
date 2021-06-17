@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@tailwindcss/ui": "^0.3.0",
-    "postcss": "^7.0.17",
+    "postcss": "^7.0.36",
     "postcss-cli": "^6.1.2",
     "tailwindcss": "^1.0.3"
   },
